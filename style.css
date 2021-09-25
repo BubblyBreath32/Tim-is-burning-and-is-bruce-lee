@@ -1,0 +1,67 @@
+img {
+ height : 350px;
+ width : 250px;
+ border-radius: 50%;
+ margin-top: 50px;
+}
+body {
+ text-align: center;
+    margin: 0;
+}
+#section_1 {
+    position: absolute;
+    height: 800px;
+ background:linear-gradient(#00ffae 0%, #00fff2 100%);
+ z-index: 9;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ opacity:0.9;
+display: table;
+width: 100%;
+    height: 100%;
+}
+.line {
+    height:6px;
+    width:75px;
+    background-color: aqua;
+    margin-left :375;
+}
+#jgvfjvfgsgyrvyevfycayvwvhf {
+    width: 900px;
+    margin-left:0px
+}
+.menu {
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    position: absolute;
+    cursor: pointer;
+}
+.link {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    font-family: 'Marck Script', cursive;
+    font-weight: 700;
+    font-size: 22px;
+}
+#section_2 {
+padding: 600px;
+    margin-left : -350;
+    text-align: center;
+}
+#qaws {
+    margin-left: 400;
+}
+a {
+    text-decoration: none;
+}
+.Articlee:hover {
+    color : chartreuse;
+}
